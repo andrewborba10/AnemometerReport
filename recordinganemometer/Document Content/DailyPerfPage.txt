@@ -1,0 +1,1 @@
+<header>Wind Survey Report: Daily performance - {curmonthdate}</header>

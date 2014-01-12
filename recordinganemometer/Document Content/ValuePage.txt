@@ -1,0 +1,5 @@
+<header>Wind Survey Report: Value of electricity</header>
+
+<table name=value style=default>
+
+<table name=carbon style=default>

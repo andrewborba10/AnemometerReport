@@ -1,0 +1,40 @@
+<header>Wind Survey Report: Summary Assessment</header>
+
+<text style=heading1>Average Daily Energy Potential</text>
+
+<tab>
+<text style=regularText>In consideration of a wind turbine project, the most important single number is the average daily energy potential. This would be the amount of energy in the motion of the air molecules as they pass through an imaginary 1 meter squared of area.  For this period, at this location, we measured:</text>
+
+<tab>
+<text style=importantText>{dailyenergyavg1} kilowatt-hours/m^2/day wind potential</text>
+</tab>
+
+
+<text style=regularText>Some of this wind was going too slow to be useful. Since we are assuming a cut-in speed of {cut-inspeed} m/s, let’s exclude the wind below that speed:</text>
+
+<tab>
+<text style=importantText>{dailyenergyavg2} kilowatt-hours/m^2/day excluding low winds</text>
+</tab>
+
+
+<text style=regularText>Some of this wind was going too fast to be fully exploited. The winds may have been dangerously strong, or beyond the capability of the generator. Excluding winds above 74.3 m/s we have this amount of energy left:</text>
+
+<tab>
+<text style=importantText>{dailyenergyavg3} kilowatt-hours/m^2/day excluding high winds also</text>
+</tab>
+
+
+<text style=regularText>What does this mean exactly? This is the amount of kinetic energy (energy of motion) which was contained in the air, on average, for one day. Since we are assuming an efficiency of {efficiency}%, let’s adjust this for what we may capture:</text>
+
+<tab>
+<text style=importantText>{dailyenergyavg4} kilowatt-hours/m^2/day considering efficiency</text>
+</tab>
+
+
+<text style=regularText>Since you are considering a turbine with {sweptarea} m^2 of area, you would get:</text>
+
+<tab>
+<text style=importantText>{dailykwhavg} kilowatt-hours/day average
+{monthlykwhavg} kilowatt-hours/month average</text>
+</tab>
+</tab>

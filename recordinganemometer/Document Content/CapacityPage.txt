@@ -1,0 +1,4 @@
+<header>Wind Survey Report: Capacity</header>
+
+
+<text style=importantText>Capacity: {capacity}%</text>

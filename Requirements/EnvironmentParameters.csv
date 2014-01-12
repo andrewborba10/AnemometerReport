@@ -1,0 +1,16 @@
+"Parameter","Units","Example","Value"
+"Site name","string","Joe Smith's site","Joe Smith's site"
+"Latitude","decimal degrees",123.456,123.456
+"Longitude","decimal degrees",-67.891,-67.891
+"Description","string","The big rock","The big rock"
+"Altitude","meters above sea level",1000,1000
+"Tower height","meters",12,12
+"swept area","square meters",18,18
+"Efficiency","decimal fraction",0.21,0.21
+"Electricity value","cents per kw-hr",15,15
+"Cut-in speed","meters per sec",3.1,3.1
+"Cut-out speed","meters per sec",16.9,16.9
+"Survival speed","methers per sec",45,45
+"Seasonal adjustment","plus or minus fraction",-0.15,-0.15
+"Max generator power","watts",9000,9000
+"Subsidy","cents per kw-hr",2.5,2.5

@@ -1,0 +1,10 @@
+<header>Wind Survey Report: Power</header>
+
+<table name=power style=default>
+
+<text style=regularText centered=1>*The time shown on rows marked with a '*' was wasted because the environment parameters indicated the wind turbine either a) could not make power out of wind speeds below {cut-inspeed} m/s or b) the generator couldn't handle wind speeds over {cut-outspeed} m/s.</text>
+
+<text style=importantText>Instantaneous peak speed: {abspeakspeed} m/s</text>
+
+<text style=importantText>Peak avg speed: {abspeak6minspeed} m/s</text>
+

@@ -1,0 +1,50 @@
+data/.cproject.i
+data/.hgignore.i
+data/.project.i
+data/.~lock.EnvironmentParameters.csv#.i
+data/EnvironmentParameters.csv.i
+data/fakeDataSet.i
+data/fakeDataSet.csv.i
+data/src/AssumedEnvironment.cpp.i
+data/src/AssumedEnvironment.h.i
+data/src/RecordDay.cpp.i
+data/src/RecordDay.h.i
+data/src/RecordingAnemometer.cpp.i
+data/src/ReportPage.cpp.i
+data/src/ReportPage.h.i
+data/src/SDRecord.cpp.i
+data/src/SDRecord.h.i
+data/src/WindDataSet.cpp.i
+data/src/WindDataSet.h.i
+data/src/WindReport.cpp.i
+data/src/WindReport.h.i
+data/src/HPDFException.cpp.i
+data/src/HPDFException.h.i
+data/src/Utilities.cpp.i
+data/src/Utilities.h.i
+data/EnvironmentParameters.txt.i
+data/src/Table.cpp.i
+data/src/Table.h.i
+data/Document Content/ParameterPage.txt.i
+data/Document Content/SummaryPage.txt.i
+data/Document Content/TitlePage.txt.i
+data/src/ReportObject.cpp.i
+data/src/ReportObject.h.i
+data/src/Token.cpp.i
+data/src/Token.h.i
+data/Document Content/BestDaysPage.txt.i
+data/Document Content/CapacityPage.txt.i
+data/Document Content/ConclusionsPage.txt.i
+data/Document Content/DailyPerfPage.txt.i
+data/Document Content/GeoComparisonPage.txt.i
+data/Document Content/IdleTimePage.txt.i
+data/Document Content/PowerPage.txt.i
+data/Document Content/SubsidyPage.txt.i
+data/Document Content/TowerPage.txt.i
+data/Document Content/ValuePage.txt.i
+data/src/Graph.cpp.i
+data/src/Graph.h.i
+data/src/BarGraph.cpp.i
+data/src/BarGraph.h.i
+data/src/LineGraph.cpp.i
+data/src/LineGraph.h.i

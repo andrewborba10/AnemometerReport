@@ -1,0 +1,3 @@
+<header>Wind Survey Report: Energy subsidies</header>
+
+<table name=subsidy style=default>

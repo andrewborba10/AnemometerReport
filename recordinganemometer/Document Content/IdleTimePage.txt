@@ -1,0 +1,5 @@
+<header>Wind Survey Report: Idle time</header>
+
+<table name=idletime style=default>
+
+<table name=energygen style=default>

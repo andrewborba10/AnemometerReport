@@ -1,0 +1,8 @@
+<header>Wind Survey Report: Power</header>
+
+<table name=power style=default>
+
+<text style=importantText>The turbine didn't produce any energy when the wind was below {cut-inspeed} m/s or above {cut-outspeed} m/s</text>
+
+<text style=importantText>Instantaneous peak speed: {abspeakspeed} m/s</text>
+

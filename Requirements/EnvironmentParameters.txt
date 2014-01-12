@@ -1,0 +1,22 @@
+// Environment Parameters
+// Description: A list of details that the report will base its content on.
+// Feel free to make notes anywhere in this file as long as they are prefixed with "//"
+// Notes:
+// Listing the same parameter twice will use the second value.
+
+Site Name:		Cathy's Site
+Latitude:		123.456
+Longitude:		-67.891
+Description:		In the backyard
+Altitude:		700
+Tower Height:		12
+Swept Area:		18
+Efficiency:		0.21
+Electricity Value:	15
+Cut-in Speed:		3.1
+Cut-out Speed:		16.9
+Survival Speed:		45
+Seasonal Adjustment:	-0.15
+Max Generator Power:	9000
+Subsidy: 		2.5
+

@@ -1,0 +1,24 @@
+
+
+
+
+
+<text style=titleText centered=1>Wind Survey Report</text>
+
+<text style=subtitleText centered=1>{sitename}</text>
+
+
+
+
+
+<text style=regularText centered=1>Sample time: {sampleperiod} days
+{startdate1} - {enddate1}</text>
+
+
+
+
+
+<text style=regularText centered=1>Prepared by
+Vertical Power Systems
+{currentdate1}</text>
+
